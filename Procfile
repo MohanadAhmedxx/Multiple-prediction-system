@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlir run 111.py
