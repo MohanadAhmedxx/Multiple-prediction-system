@@ -5,3 +5,4 @@ scikit-learn
 protobuf
 matplotlib
 xgboost
+streamlit-option-menu
